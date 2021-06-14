@@ -1,0 +1,81 @@
+{"level":30,"time":"2021-06-14T13:42:21.612Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Listening on 53207"}
+{"level":30,"time":"2021-06-14T13:42:22.554Z","pid":22556,"hostname":"DELL-G7-7588","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-06-14T13:42:22.567Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:23.224Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Video path: undefined"}
+{"level":30,"time":"2021-06-14T13:42:23.224Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:25.791Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-06-14T13:42:25.918Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-06-14T13:42:27.086Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
+{"level":30,"time":"2021-06-14T13:42:27.292Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:27.292Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:27.293Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:27.306Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:27.307Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:27.307Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:27.744Z","pid":22556,"hostname":"DELL-G7-7588","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-06-14T13:42:27.750Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:27.975Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Video path: undefined"}
+{"level":30,"time":"2021-06-14T13:42:27.975Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:30.119Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-06-14T13:42:30.231Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-06-14T13:42:31.303Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing STARBUGS COFFEE\n 4.8\nCafeteria\n30-40m"}
+{"level":30,"time":"2021-06-14T13:42:31.517Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:31.517Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:31.517Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:31.531Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:31.531Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:31.531Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:31.915Z","pid":22556,"hostname":"DELL-G7-7588","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-06-14T13:42:31.923Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:32.168Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Video path: undefined"}
+{"level":30,"time":"2021-06-14T13:42:32.168Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:34.571Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-06-14T13:42:34.663Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-06-14T13:42:36.001Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:36.001Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:36.001Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:36.015Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:36.015Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:36.015Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:36.376Z","pid":22556,"hostname":"DELL-G7-7588","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-06-14T13:42:36.384Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:36.516Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Video path: undefined"}
+{"level":30,"time":"2021-06-14T13:42:36.516Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:38.717Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-06-14T13:42:38.812Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-06-14T13:42:39.936Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:39.936Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:39.936Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:39.950Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:39.950Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:39.950Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:40.332Z","pid":22556,"hostname":"DELL-G7-7588","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-06-14T13:42:40.340Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:40.483Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Video path: undefined"}
+{"level":30,"time":"2021-06-14T13:42:40.483Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:42.725Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-06-14T13:42:42.846Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-06-14T13:42:43.034Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:43.034Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:43.034Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:43.049Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:43.049Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:43.049Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:43.401Z","pid":22556,"hostname":"DELL-G7-7588","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-06-14T13:42:43.411Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:43.543Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Video path: undefined"}
+{"level":30,"time":"2021-06-14T13:42:43.544Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:45.674Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-06-14T13:42:45.781Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-06-14T13:42:46.851Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários"}
+{"level":30,"time":"2021-06-14T13:42:46.878Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários"}
+{"level":30,"time":"2021-06-14T13:42:46.907Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários"}
+{"level":30,"time":"2021-06-14T13:42:46.941Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários"}
+{"level":30,"time":"2021-06-14T13:42:46.975Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=#detail containing Categoria\nHamburgers\nQuem somos\n40 anos se especializando em trash food.\nHorários\nFunciona todos os dias, de 10h às 22h"}
+{"level":30,"time":"2021-06-14T13:42:47.757Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Retrieved text for element css=.page-header containing  Finalize o seu pedido"}
+{"level":30,"time":"2021-06-14T13:42:49.259Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:49.259Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:49.259Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}
+{"level":30,"time":"2021-06-14T13:42:49.269Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active context"}
+{"level":30,"time":"2021-06-14T13:42:49.269Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changing current active page"}
+{"level":30,"time":"2021-06-14T13:42:49.269Z","pid":22556,"hostname":"DELL-G7-7588","msg":"Changed active page"}

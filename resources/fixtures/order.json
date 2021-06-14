@@ -1,0 +1,23 @@
+{
+    "restaurant": "DEBUGER KING",
+    "desc": "40 anos se especializando em trash food.",
+    "products": [
+        {
+            "name": "Woopper Burger"
+        },
+        {
+            "name": "Batatas Fritas"
+        },
+        {
+            "name": "Refrigerante"
+        }
+    ],
+    "total": "28,50",
+    "customer": {
+        "name":    "Leandro Viola",
+        "email":   "viola.l@uol.com.br",
+        "address": "Rua dos Bugres",
+        "number":  "999"
+    },
+    "payment":"Dinheiro"
+}
